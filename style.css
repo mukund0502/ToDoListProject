@@ -1,0 +1,61 @@
+.deletebutton{
+    visibility: hidden;
+}
+
+ol li{
+    /* list-style-type: none; */
+}
+body{
+    background-color: rgb(153, 177, 177);
+    width: 50%;
+    margin: auto;
+}
+
+.inputDiv{
+    width: 100%;
+}
+
+.input{
+    width: 70%;
+    font-size: 1.5rem;
+    padding: 10px;
+    margin: 10px;
+    margin-right: 0px;
+    background-color: white;
+}
+
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+.deletebutton:hover{
+    background-color: black;
+    color: white;
+}
+
+.button{
+    margin: 0px;
+    font-size: 1.5rem;
+    border-radius: 0px;
+    padding: 10px;
+    border-width: 2px;
+}
+
+.work{
+    display: flex;
+    font-size: 1.7rem;
+    margin: 0px 5px;
+    /* border: 1px solid; */
+    padding: 5px;
+    margin: 5px;
+    width: 60%;
+}
+
+.deletebutton{
+    font-size: 1.3rem;
+}
+
+#we{
+    display: flex;
+}
