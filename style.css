@@ -8,6 +8,7 @@ ol li{
 body{
     background-color: rgb(153, 177, 177);
     width: 50%;
+    min-width: 700px;
     margin: auto;
 }
 
@@ -43,6 +44,7 @@ body{
 }
 
 .work{
+    min-width: 500px;
     display: flex;
     font-size: 1.7rem;
     margin: 0px 5px;
